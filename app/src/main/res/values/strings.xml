@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">MobsCraft</string>
+    <string name="about">About</string>
+    <string name="name">name</string>
+    <string name="behavior">Behavior</string>
+    <string name="hp">hp</string>
+    <string name="description">description</string>
+    <string name="mob_hp">❤️ %s</string>
+
+    <string-array name="data_name">
+        <item>Enderman</item>
+        <item>Cat</item>
+        <item>Warden</item>
+        <item>Phantom</item>
+        <item>Fox</item>
+        <item>Rabbit</item>
+        <item>Cow</item>
+        <item>Axolotl</item>
+        <item>Iron Golem</item>
+        <item>Villager</item>
+        <item>Wither</item>
+        <item>Ender Dragon</item>
+        <item>Drowned</item>
+        <item>Blaze</item>
+        <item>Creeper</item>
+    </string-array>
+
+    <string-array name="data_behavior">
+        <item>Neutral</item>
+        <item>Passive</item>
+        <item>Hostile</item>
+        <item>Hostile</item>
+        <item>Passive</item>
+        <item>Passive</item>
+        <item>Passive</item>
+        <item>Passive</item>
+        <item>Neutral</item>
+        <item>Passive</item>
+        <item>Hostile</item>
+        <item>Hostile</item>
+        <item>Hostile</item>
+        <item>Hostile</item>
+        <item>Hostile</item>
+    </string-array>
+
+    <string-array name="data_hp">
+        <item>40</item>
+        <item>10</item>
+        <item>500</item>
+        <item>20</item>
+        <item>10</item>
+        <item>3</item>
+        <item>10</item>
+        <item>14</item>
+        <item>100</item>
+        <item>20</item>
+        <item>300</item>
+        <item>200</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>An enderman is a tall neutral mob found in all three dimensions. Endermen normally ignore players but run to attack those that damage it or look directly at its face. Endermen teleport to avoid water (which harms them), sunlight, projectiles and some other damage sources, and they occasionally pick up certain blocks.</item>
+        <item>A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.</item>
+        <item>A warden is a powerful but evadable hostile mob summoned by sculk shriekers in the deep dark biome. It attacks by swinging its arms downward, dealing the highest melee damage of all mobs, and can also release a sonic boom attack that homes in on the target, pierces through obstacles and only the Resistance effect can reduce its damage</item>
+        <item>Phantoms are flying undead hostile mobs that spawn in the night sky when the player has not laid in a bed or died for three or more in-game days. They attack by diving at the player from the sky to bite them.</item>
+        <item>A fox is a passive mob that spawns in taigas, old growth taigas, snowy taigas and mountain groves. They are able to carry a single item in their mouth, but prefer food over other items.</item>
+        <item>A rabbit is an uncommon passive mob and is a source of rabbit\'s foot, rabbit hide, and raw rabbit.</item>
+        <item>A cow is a passive mob found in most grassy biomes and a source of leather, beef and milk.</item>
+        <item>An axolotl is a passive bucketable aquatic mob found in lush caves that hunts most other aquatic mobs, and can assist players with aquatic combat and grant them Regeneration.</item>
+        <item>An iron golem is a buildable neutral mob that attacks monsters with its arms, knocking them into the air. Iron golems created by villagers or spawned in villages patrol their village, and may attack players that attack it or have a low popularity or reputation with their village.</item>
+        <item>Villagers are passive mobs that inhabit villages, work at their professions, breed, and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.</item>
+        <item>The wither is a player-constructed and highly destructive undead hostile boss mob that can hover in mid-air and fire barrages of explosive wither skulls at its target (which happens to be everything living). It is the only source of nether stars, which are used to craft beacons.</item>
+        <item>The ender dragon is a giant flying hostile boss mob found when first entering the End. It is the largest naturally spawning mob in the game. It guards access to the end gateways that provide entry to the outer end islands in addition to the exit portal that allows return to the Overworld as well as access to the end credits of Minecraft. Its attacks involve charging at the player and its one-of-a-kind dragon acid attacks.</item>
+        <item>Drowned are common underwater zombie variants that spawn in oceans, rivers and dripstone caves, or when zombies drown. They usually attack through melee attacks, but may also come armed with tridents that they throw. They are the only source of tridents, and the only renewable source of copper.</item>
+        <item>A blaze is a hostile mob that spawns in nether fortresses and is the only source of blaze rods. Blazes attack at range by firing a trio of fireballs or can attack the player that gets too close to them with their spinning rods.</item>
+        <item>A creeper is a common hostile mob that silently approaches players and then explodes, which can destroy blocks and kill unarmored players on any difficulty (except for peaceful).</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/enderman</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/warden</item>
+        <item>@drawable/phantom</item>
+        <item>@drawable/fox</item>
+        <item>@drawable/rabbit</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/axolotl</item>
+        <item>@drawable/iron_golem</item>
+        <item>@drawable/villager</item>
+        <item>@drawable/wither</item>
+        <item>@drawable/ender_dragon</item>
+        <item>@drawable/drowned</item>
+        <item>@drawable/blaze</item>
+        <item>@drawable/creeper</item>
+    </integer-array>
+
+
+</resources>
